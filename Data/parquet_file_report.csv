@@ -1,0 +1,15 @@
+file,path,size_bytes,row_count,schema,size_mb
+fhvhv_tripdata_2019-10.parquet,HVFHV_data/fhvhv_tripdata_2019-10.parquet,549370339,21162290,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",523.9203824996948
+fhvhv_tripdata_2019-11.parquet,HVFHV_data/fhvhv_tripdata_2019-11.parquet,561011664,21635568,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",535.0224151611328
+fhvhv_tripdata_2020-10.parquet,HVFHV_data/fhvhv_tripdata_2020-10.parquet,345178105,13268411,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",329.1874933242798
+fhvhv_tripdata_2020-11.parquet,HVFHV_data/fhvhv_tripdata_2020-11.parquet,301856152,11596865,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",287.8724594116211
+fhvhv_tripdata_2021-10.parquet,HVFHV_data/fhvhv_tripdata_2021-10.parquet,430115885,16545356,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",410.19047260284424
+fhvhv_tripdata_2021-11.parquet,HVFHV_data/fhvhv_tripdata_2021-11.parquet,411061458,16041639,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",392.01875495910645
+fhvhv_tripdata_2022-10.parquet,HVFHV_data/fhvhv_tripdata_2022-10.parquet,495083481,19306090,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",472.14840030670166
+fhvhv_tripdata_2022-11.parquet,HVFHV_data/fhvhv_tripdata_2022-11.parquet,464298215,18085896,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",442.7892827987671
+fhvhv_tripdata_2023-10.parquet,HVFHV_data/fhvhv_tripdata_2023-10.parquet,485826227,20186330,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",463.31999492645264
+fhvhv_tripdata_2023-11.parquet,HVFHV_data/fhvhv_tripdata_2023-11.parquet,464926008,19269250,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",443.3879928588867
+fhvhv_tripdata_2024-08.parquet,HVFHV_data/fhvhv_tripdata_2024-08.parquet,465991646,19128392,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",444.40426445007324
+fhvhv_tripdata_2024-10.parquet,HVFHV_data/fhvhv_tripdata_2024-10.parquet,485102359,20028282,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",462.6296606063843
+fhvhv_tripdata_2025-08.parquet,HVFHV_data/fhvhv_tripdata_2025-08.parquet,479574607,19271461,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",457.357985496521
+fhvhv_tripdata_2025-10.parquet,HVFHV_data/fhvhv_tripdata_2025-10.parquet,518486063,21308701,"StructType([StructField('request_datetime', TimestampNTZType(), True)])",494.46684169769287

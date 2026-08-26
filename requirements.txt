@@ -1,0 +1,10 @@
+pandas>=2.2
+requests>=2.32
+matplotlib>=3.8
+pyspark>=3.5
+pyarrow>=16.0
+ipykernel>=6.29
+geopandas>=1.0
+statsmodels>=0.14
+scikit-learn>=1.5
+xgboost>=2.1

@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# PySpark
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_SUCCESS
+
+# Data folder — ignore everything except the CSVs required by Predictive_model.ipynb
+Data/*
+!Data/model_df_with_event_flag.csv
+!Data/nycc_animenyc_event_hours_updated.csv
+!Data/parquet_file_report.csv
+
+# Raw trip data, shapefiles, weather cache (large / regenerable / downloadable)
+HVFHV_data/
+taxi_zones/
+tl_2024_36_tract/
+
+# Generated plots
+Data/plots/
+Data/plots_yellow/
+
+# Geospatial / misc data formats
+*.parquet
+*.zip
+*.gz
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+*.env
